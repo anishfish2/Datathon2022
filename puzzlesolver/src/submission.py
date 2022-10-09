@@ -39,7 +39,7 @@ class Predictor:
         """
         Initializes any variables to be used when making predictions
         """
-        self.model = load_model('src/submissionshuffle10000.h5')
+        self.model = load_model('submission.h5')
 
     def make_prediction(self, img_path):
         """
