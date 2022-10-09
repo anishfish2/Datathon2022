@@ -1,6 +1,7 @@
 import requests
 import json
-import re
+from scipy import spatial
+import pandas as pd
 
 def get_embedding(text, api_key):
     ## API Definitions
@@ -23,18 +24,19 @@ def get_embedding(text, api_key):
     except:
         print(response.status_code)
 
+def similarity(a, b):
+    return 1 - spatial.distance.cosine(a, b)
 
 
 # Define your API key here 
 API_KEY = "IJXH6TU5QL9BFnRJHCl8G99pKBFkTIMt6smwp0cU"
-with open("input.txt") as f:
-    TEXT = f.read()
-    pattern = re.compile('[\W_]+')
-    pattern.sub('', TEXT)
+with open("api_input.txt") as f:
+    TEXT = f.read()[:7500]
 
 # Call the get_embedding function located in ./assets
-embedding = get_embedding(TEXT, API_KEY)
+embd1 = get_embedding(TEXT, API_KEY)
 
-# Print stuff out and be prepared for a ton of numbers
-print(embedding)
-
+challenge = pd.read_csv('challenge.csv')
+num = 1
+embd0 = [float(x) for x in challenge['embeddings'][num][1:-1].split(", ")]
+print(f'Challenge: {num}  {similarity(embd0, embd1)}')
