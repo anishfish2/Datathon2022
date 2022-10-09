@@ -1,0 +1,63 @@
+Max for #0 is sample: 114 with 0.7175107235027349
+text: Washington D.C., Dec. 17, 2020 —
+The Securities and Exchange Commission today charged Robinhood Financial LLC for repeated misstatements that failed to disclose the firm’s receipt of payments from trading firms for routing customer orders to them, and with failing to satisfy its duty to seek the best reasonably available terms to execute customer orders.  Robinhood agreed to pay $65 million to settle the charges.
+
+According to the SEC’s order, between 2015 and late 2018, Robinhood made misleading statements and omissions in customer communications, including in FAQ pages on its website, about its largest revenue source when describing how it made money – namely, payments from trading firms in exchange for Robinhood sending its customer orders to those firms for execution, also known as “payment for order flow.”  As the SEC’s order finds, one of Robinhood’s selling points to customers was that trading was “commission free,” but due in large part to its unusually high payment for order flow rates, Robinhood customers’ orders were executed at prices that were inferior to other brokers’ prices.  Despite this, according to the SEC’s order, Robinhood falsely claimed in a website FAQ between October 2018 and June 2019 that its execution quality matched or beat that of its competitors.  The order finds that Robinhood provided inferior trade prices that in aggregate deprived customers of $34.1 million even after taking into account the savings from not paying a commission.  Robinhood made these false and misleading statements during the time in which it was growing rapidly.
+
+“Robinhood provided misleading information to customers about the true costs of choosing to trade with the firm,” said Stephanie Avakian, Director of the SEC’s Enforcement Division.  “Brokerage firms cannot mislead customers about order execution quality.”
+
+“Robinhood failed to seek to obtain the best reasonably available terms when executing customers’ orders, causing customers to lose tens of millions of dollars,” said Joseph Sansone, Chief of the SEC Enforcement Division’s Market Abuse Unit.  “Today’s action sends a clear message that the Commission will not allow brokers to ignore their obligations to customers.”
+
+“There are many new companies seeking to harness the power of technology to provide alternative ways for people to invest their money,” added Erin E. Schneider, Director of the SEC’s San Francisco Regional Office.  “But innovation does not negate responsibility under the federal securities laws.”
+
+Without admitting or denying the SEC’s findings, Robinhood agreed to a cease-and-desist order prohibiting it from violating the antifraud provisions of the Securities Act of 1933 and the recordkeeping provisions of the Securities Exchange Act of 1934, censuring it, and requiring it to pay a $65 million civil penalty.  Robinhood also agreed to retain an independent consultant to review its policies and procedures relating to customer communications, payment for order flow, and best execution of customer orders, and to ensure that Robinhood is effectively following those policies and procedures.
+
+
+Max for #1 is sample: 116 with 0.6241539244623426
+text: Washington D.C., Dec. 15, 2021 —
+The Securities and Exchange Commission today proposed amendments to its rules regarding disclosure about an issuer’s repurchases of its equity securities, often referred to as buybacks.
+
+"Share buybacks have become a significant component of how public issuers return capital to shareholders," said SEC Chair Gary Gensler. "I think we can lessen the information asymmetries between issuers and investors through enhanced timeliness and granularity of disclosures that today’s proposal would provide."
+
+The proposed rules would require an issuer to provide a new Form SR before the end of the first business day following the day the issuer executes a share repurchase. Form SR would require disclosure identifying the class of securities purchased, the total amount purchased, the average price paid, as well as the aggregate total amount purchased on the open market in reliance on the safe harbor in Exchange Act Rule 10b-18 or pursuant to a plan that is intended to satisfy the affirmative defense conditions of Exchange Act Rule 10b5-1(c).
+
+The proposed amendments also would enhance existing periodic disclosure requirements regarding repurchases of an issuer’s equity securities. Specifically, the proposed amendments would require an issuer to disclose: the objective or rationale for the share repurchases and the process or criteria used to determine the repurchase amounts; any policies and procedures relating to purchases and sales of the issuer’s securities by its officers and directors during a repurchase program, including any restriction on such transactions; and whether the issuer is making its repurchases  pursuant to a plan that it intends to satisfy the affirmative defense conditions of Exchange Act Rule 10b5-1(c) and/or  the conditions of the Exchange Act Rule 10b-18 non-exclusive safe harbor.
+
+The proposed rules apply to issuers that repurchase securities registered under Section 12 of the Securities Exchange Act of 1934, including foreign private issuers and certain registered closed-end funds.
+
+The proposing release will be published on SEC.gov and in the Federal Register. The comment period will remain open for 45 days after publication in the Federal Register.
+
+
+Max for #2 is sample: 91 with 0.8527581643394875
+text: HHS and DoD Statements on FDA Authorization of Moderna Vaccine
+On Friday, the Food and Drug Administration announced that it had issued an Emergency Use Authorization (EUA) for Moderna’s COVID-19 vaccine, the second COVID-19 vaccine to receive an EUA. Operation Warp Speed has allocated more than 5.9 million doses of the vaccine for jurisdictions to receive in the coming week. Below are statements from HHS Secretary Alex Azar and Acting Defense Secretary Christopher Miller.
+
+“On January 7, before China had reported even one death from the novel coronavirus or confirmed human-to-human transmission, NIH scientists and innovators at Moderna agreed to begin work on the vaccine that received FDA authorization today. In March, BARDA scientists joined the partnership and worked with Moderna and NIH to reach commercialization, building on support BARDA has provided since 2016 for the remarkable mRNA technology. To have two vaccines against a novel virus authorized and distributed within a year is extraordinary, and to have one of these vaccines developed by scientists at the NIH should be a great source of pride for every member of the HHS family and every American. The public-private partnership of Operation Warp Speed has helped Moderna, an American startup, become one of the first two companies to receive FDA authorization for a COVID-19 vaccine. Authorization of Moderna’s vaccine means we can accelerate the vaccination of frontline healthcare workers and Americans in long-term-care facilities, and, ultimately, bring a faster end to this pandemic.” – HHS Secretary Alex Azar
+
+“The swift authorization of a second vaccine by the FDA is great news for the American people. The DoD, with the work of General Perna and Operation Warp Speed, stands ready to work with our public and private-sector partners to ensure doses reach Americans as soon as possible. Together, we will bring this pandemic to an end.” – Acting Secretary of Defense Christopher Miller
+
+
+Max for #3 is sample: 82 with 0.7780951882763395
+text: WASHINGTON — On April 18, 2020, President Donald J. Trump signed an Executive Order authorizing the Secretary of the Treasury to provide relief to certain U.S. businesses, including critical supply chains for U.S. manufacturers, during the COVID-19 pandemic. 
+
+Pursuant to this authority, the Treasury Department and Customs and Border Protection today are issuing a joint Temporary Interim Final Rule providing importers, who have faced a significant financial hardship due to the outbreak, with the option for a 90-day deferment period on the payment of duties, taxes, and fees. 
+
+This action does not change deadlines for tariffs and fees for goods subject to antidumping and countervailing duties (AD/CVD), and Section 201, 232, and 301 Trade Remedies.
+
+“By postponing the deadline to deposit certain duties, taxes, and fees for 90 days, we are providing much-needed relief to affected businesses,” said Treasury Secretary Steven T. Mnuchin.  “This will protect American jobs and help these businesses get through this time.”Treasury and CBP have been working closely with the trade community throughout the COVID-19 pandemic.  This action addresses many of the growing concerns raised by importers and manufacturers, and it reduces the financial burden of these stakeholders.
+
+
+Max for #4 is sample: 105 with 0.7680843812606737
+text: Washington D.C., Dec. 18, 2019 —
+Following a series of Commission actions, court proceedings and Congressional action, the Securities and Exchange Commission today voted to propose rules that would require resource extraction issuers to disclose payments made to foreign governments or the U.S. federal government for the commercial development of oil, natural gas, or minerals. 
+
+The Commission first adopted rules in this area in 2012, as mandated by the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”).  The 2012 rules were vacated by the U.S. District Court for the District of Columbia.  The Commission then adopted new rules in 2016, which were disapproved by a joint resolution of Congress pursuant to the Congressional Review Act. 
+
+Although the joint resolution of Congress vacated the 2016 rules, the statutory mandate remains in effect.  As a result, the Commission is statutorily obligated to issue a rule.  Under the Congressional Review Act, however, the Commission may not reissue the same rule in “substantially the same form” or issue a new rule that is “substantially the same” as the disapproved rule.
+
+“I commend the staff for expertly navigating legal and regulatory questions when crafting this proposal,” said Chairman Jay Clayton.  “The proposal is designed to address the statutory mandate in a manner that does not result in undue compliance burdens or competitive harm.” 
+
+The proposal will have a 60-day public comment period following its publication in the Federal Register.
+
+
+
